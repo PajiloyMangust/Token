@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.12"
+  },
+  "dependencies": {
+    "3": "^2.1.0",
+    "@alch/alchemy-web3": "^1.4.7",
+    "@openzeppelin/contracts": "^5.0.2",
+    "alchemy-sdk": "^3.4.1",
+    "web": "^0.0.2"
+  }
+}
