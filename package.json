@@ -9,6 +9,7 @@
     "@openzeppelin/contracts": "^5.0.2",
     "alchemy-sdk": "^3.4.1",
     "dotenv": "^16.4.5",
-    "web": "^0.0.2"
+    "web": "^0.0.2",
+    "web3": "^4.13.0"
   }
 }
